@@ -1,0 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,700;1,400&family=Montserrat:ital,wght@0,100;0,600;0,700;1,700&family=Padauk:wght@400;700&family=Raleway:wght@200&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
